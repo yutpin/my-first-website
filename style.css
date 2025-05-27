@@ -16,3 +16,13 @@ button {
   border: none;
   cursor: pointer;
 }
+body {
+  font-family: 'Khmer OS Battambang', sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+  padding: 20px;
+}
+
+h1 {
+  color: #2c3e50;
+}
