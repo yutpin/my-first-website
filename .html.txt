@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>វេបសាយដំបូង</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>សូមស្វាគមន៍មកកាន់វេបសាយរបស់ខ្ញុំ</h1>
+  <p>ខ្ញុំកំពុងរៀនបង្កើតវេបសាយជាលើកដំបូង។</p>
+
+  <!-- ✅ បន្ថែមអត្ថបទថ្មី -->
+  <h2>អំពីខ្ញុំ</h2>
+  <p>ខ្ញុំចាប់អារម្មណ៍ស្ដីពីបច្ចេកវិទ្យា និងវេបសាយ។</p>
+
+  <!-- ✅ បន្ថែមរូបភាព -->
+  <img src="myphoto.jpg" width="200" alt="រូបខ្ញុំ">
+
+  <!-- ✅ បន្ថែមបញ្ជី -->
+  <h3>ជំនាញរបស់ខ្ញុំ</h3>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
+
+  <!-- ✅ បន្ថែមតំណភ្ជាប់ -->
+  <a href="https://www.google.com" target="_blank">ចូលទៅកាន់ Google</a>
+
+  <script src="script.js"></script>
+</body>
+</html>
+<a href="about.html">អំពីយើង</a>
+<link rel="stylesheet" href="css/style.css">
+<script src="js/script.js"></script>
+<img src="images/myphoto.jpg" alt="រូបខ្ញុំ">
+
